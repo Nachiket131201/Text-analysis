@@ -1,17 +1,14 @@
 # Text-analysis
 
 
-In this project,with the help of Python ,I have performed data extraction,Data Cleaning for list of URLs in csv files.
+Text analysis for NLP.
 
+-Extracted textual content from web articles using Python libraries such as BeautifulSoup.
 
-Using Python Libraries,found insights such as -
+-Ensured precise data extraction, excluding website headers, footers, and non-article content
 
-1.Positive score
+-Computed a range of text analysis variables, including sentiment scores, readability indices, and word usage metrics.
 
-2.Negative Score
+-Organized and documented analysis results in compliance with project requirements.
 
-3.Sentence Count
-
-4.Fog index
-
-5.Subjectivity score,etc.
+-Delivered data in the prescribed format, following the specified order.
